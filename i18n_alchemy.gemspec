@@ -21,8 +21,8 @@ Gem::Specification.new do |s|
   s.add_dependency "activesupport", ">= 3.2.0", "<= 4.2.1"
   s.add_dependency "i18n", "~> 0.6"
 
-  s.add_development_dependency "actionpack", ">= 3.2.0", "<= 4.2.1"
-  s.add_development_dependency "activerecord", ">= 3.2.0", "<= 4.2.1"
+  s.add_development_dependency "actionpack", ">= 3.2.0", "<= 4.2.2"
+  s.add_development_dependency "activerecord", ">= 3.2.0", "<= 4.2.2"
   s.add_development_dependency "minitest", ">= 4.3.2"
   s.add_development_dependency "rake", "~> 10.1"
 end
