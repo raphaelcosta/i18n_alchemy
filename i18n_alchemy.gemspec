@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.test_files    = Dir["test/**/*"]
   s.require_paths = ["lib"]
 
-  s.add_dependency "activesupport", ">= 3.2.0", "<= 4.2.1"
+  s.add_dependency "activesupport", ">= 3.2.0", "<= 4.2.2"
   s.add_dependency "i18n", "~> 0.6"
 
   s.add_development_dependency "actionpack", ">= 3.2.0", "<= 4.2.2"
